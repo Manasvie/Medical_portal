@@ -58,4 +58,4 @@ end
 
 gem "standard", "~> 1.40"
 
-gem "rubocop", "~> 1.65"
+gem "rubocop", "~> 1.66"
